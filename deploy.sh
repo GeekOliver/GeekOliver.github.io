@@ -12,8 +12,8 @@ hugo -t hermit # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # 把内容打包到public
 
-cp themes/hermit/resources/me -r public/
-cp themes/hermit/resources/MyLove -r public/
+cp themes/Personal/me -r public/
+cp themes/Personal/MyLove -r public/
 
 # 进入打包文件夹
 cd public
