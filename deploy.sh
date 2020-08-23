@@ -40,7 +40,7 @@ git push -f git@github.com:AverageJoeWang/AverageJoeWang.github.io.git master
 cd ..
 
 # 删除public 
-rm -rf public
+#rm -rf public
 
 # 同步原文
 
