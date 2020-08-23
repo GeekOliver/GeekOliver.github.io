@@ -10,8 +10,15 @@ rm -rf public
 # 打包。even 是主题
 hugo -t hermit # if using a theme, replace with `hugo -t <YOURTHEME>`
 
+# 把内容打包到public
+
+cp themes/hermit/resources/me -r public/
+cp themes/hermit/resources/MyLove -r public/
+
 # 进入打包文件夹
 cd public
+
+
 
 # 添加 readme
 echo '## Store Hugo HTML files <br> Blog Markdown File [https://github.com/AverageJoeWang/AverageJoeWang.github.io/tree/gh-blog](https://github.com/AverageJoeWang/AverageJoeWang.github.io/tree/gh-blog)' > README.md
@@ -22,6 +29,8 @@ echo 'averagejoe.wang' > CNAME
 # Add changes to git.
 git init
 git add -A
+
+
 
 # Commit changes.
 msg="building site `date`"
