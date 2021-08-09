@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>机壳</title>
+  <icon>https://geekoliver.com/icon.png</icon>
+  <subtitle>后台搬砖日常</subtitle>
+  <link href="https://geekoliver.com/atom.xml" rel="self"/>
+  
+  <link href="https://geekoliver.com/"/>
+  <updated>2021-08-08T07:40:18.272Z</updated>
+  <id>https://geekoliver.com/</id>
+  
+  <author>
+    <name>oliver</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数组</title>
+    <link href="https://geekoliver.com/posts/1963/"/>
+    <id>https://geekoliver.com/posts/1963/</id>
+    <published>2021-08-03T16:00:00.000Z</published>
+    <updated>2021-08-08T07:40:18.272Z</updated>
+    
+    
+    <summary type="html">数组相关题目，很经典的hash、矩阵等操作</summary>
+    
+    
+    
+    <category term="算法与数据结构" scheme="https://geekoliver.com/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数组" scheme="https://geekoliver.com/tags/%E6%95%B0%E7%BB%84/"/>
+    
+  </entry>
+  
+</feed>
