@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://geekoliver.com/posts/54862/</loc>
+    
+    <lastmod>2021-08-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://geekoliver.com/posts/8969/</loc>
+    
+    <lastmod>2021-08-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://geekoliver.com/posts/45513/</loc>
+    
+    <lastmod>2021-08-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://geekoliver.com/save/index.html</loc>
     
     <lastmod>2021-08-08</lastmod>
@@ -74,7 +95,28 @@
 
   
   <url>
+    <loc>https://geekoliver.com/tags/%E9%80%92%E5%BD%92-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-%E9%80%92%E6%8E%A8/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://geekoliver.com/tags/%E6%95%B0%E7%BB%84/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekoliver.com/tags/%E9%93%BE%E8%A1%A8/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekoliver.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
