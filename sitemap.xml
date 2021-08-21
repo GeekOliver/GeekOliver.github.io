@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://geekoliver.com/about/index.html</loc>
+    
+    <lastmod>2021-08-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://geekoliver.com/posts/54862/</loc>
     
     <lastmod>2021-08-10</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://geekoliver.com/save/index.html</loc>
     
     <lastmod>2021-08-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://geekoliver.com/about/index.html</loc>
-    
-    <lastmod>2021-07-31</lastmod>
     
   </url>
   
