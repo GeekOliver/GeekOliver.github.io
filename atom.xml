@@ -6,7 +6,7 @@
   <link href="https://geekoliver.com/atom.xml" rel="self"/>
   
   <link href="https://geekoliver.com/"/>
-  <updated>2021-08-10T14:52:52.099Z</updated>
+  <updated>2021-08-28T08:54:07.583Z</updated>
   <id>https://geekoliver.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>01_操作系统概念</title>
+    <link href="https://geekoliver.com/posts/24488/"/>
+    <id>https://geekoliver.com/posts/24488/</id>
+    <published>2021-08-28T09:00:00.000Z</published>
+    <updated>2021-08-28T08:54:07.583Z</updated>
+    
+    
+    <summary type="html">现代计算机系统由一个或多个处理器、主存、磁盘、打印机、键盘、鼠标、显示器、网络接口以及各种其他输入输出设备组成。而操作系统是指控制和管理这些硬件设备和软件资源，并合理地组织调度计算的工作和资源的分配，以提供给用户和其他软件方便的接口和环境。</summary>
+    
+    
+    
+    <category term="计算机基础" scheme="https://geekoliver.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="计算机操作系统" scheme="https://geekoliver.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>一题看递归、递推与动态规划</title>
