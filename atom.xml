@@ -6,7 +6,7 @@
   <link href="https://geekoliver.com/atom.xml" rel="self"/>
   
   <link href="https://geekoliver.com/"/>
-  <updated>2021-09-05T10:39:50.581Z</updated>
+  <updated>2021-09-05T10:47:00.464Z</updated>
   <id>https://geekoliver.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>02_进程基本概念</title>
+    <title>02_进程</title>
     <link href="https://geekoliver.com/posts/17037/"/>
     <id>https://geekoliver.com/posts/17037/</id>
     <published>2021-08-29T08:00:00.000Z</published>
-    <updated>2021-09-05T10:39:50.581Z</updated>
+    <updated>2021-09-05T10:47:00.464Z</updated>
     
     
     <summary type="html">操作系统中最核心的概念就是`进程`:这是对正在运行程序的一个抽象。本文主要从进程组成、组织方式、特征、管理等角度进行阐述。</summary>
